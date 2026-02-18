@@ -6,6 +6,10 @@
 
 **Flavor Fusion** is an interactive web application that leverages the power of Google's Gemini AI to generate creative and delicious recipe blog posts. Whether you're a food enthusiast looking for inspiration or a developer enjoying a quick coding joke, Flavor Fusion serves up content with a side of fun!
 
+## 🌐 Live Demo
+
+🔗 Demo Link: Add your deployed application link here
+
 ## ✨ Features
 
 -   **AI-Powered Recipes**: Generates detailed recipe blog posts including titles, ingredients, instructions, and engaging introductions using Google Gemini Flash.
@@ -74,3 +78,4 @@
 
 
 Made by Krishna Veeramallu
+
