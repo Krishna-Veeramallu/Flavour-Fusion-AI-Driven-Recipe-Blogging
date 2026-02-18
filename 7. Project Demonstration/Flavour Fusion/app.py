@@ -4,7 +4,7 @@ import random
 
 # Configure Google Generative AI API key
 # Ideally, this should be stored in st.secrets or environment variables
-api_key = "AIzaSyDqYyNjak7zKNigeeC7lTffuixbcpU5ZOQ"
+api_key = "GOGGLE_API_KEY"
 genai.configure(api_key=api_key)
 
 # Generation Configuration
@@ -185,3 +185,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
