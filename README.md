@@ -27,8 +27,8 @@
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/Krishna-Veeramallu/Flavour-Fusion.git
-    cd Flavour-Fusion
+    git clone https://github.com/Krishna-Veeramallu/Flavour-Fusion-AI-Driven-Recipe-Blogging.git
+    cd Flavour-Fusion-AI-Driven-Recipe-Blogging
     ```
 
 2.  **Install Dependencies**
@@ -72,4 +72,5 @@
 
 ---
 
-Made with ❤️ by Krishna Veeramallu
+
+Made by Krishna Veeramallu
