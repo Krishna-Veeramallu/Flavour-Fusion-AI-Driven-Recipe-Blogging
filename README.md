@@ -8,8 +8,7 @@
 
 ## 🌐 Live Demo
 
-🔗 Demo Link: Add your deployed application link here
-
+🔗 Demo Link: ([https://drive.google.com/file/d/1yXiaPI3NcRrDJxg5Y-NFgKvLUIxFRx40/view?usp=sharing](url))
 ## ✨ Features
 
 -   **AI-Powered Recipes**: Generates detailed recipe blog posts including titles, ingredients, instructions, and engaging introductions using Google Gemini Flash.
@@ -78,4 +77,5 @@
 
 
 Made by Krishna Veeramallu
+
 
